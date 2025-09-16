@@ -93,7 +93,7 @@ export default function Home() {
             Understanding Skin Cancer & Early Detection
           </Heading>
           <Text as="p" size="3" align="center" color="accent">
-            Skin cancer is the most common form of cancer, but it's also highly treatable when detected early. Our mission is to empower you with knowledge and a tool for proactive health.
+            Skin cancer is the most common form of cancer, but its also highly treatable when detected early. Our mission is to empower you with knowledge and a tool for proactive health.
           </Text>
         </Section>
 
